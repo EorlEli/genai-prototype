@@ -21,7 +21,7 @@ def clean_text(text):
     return text
 
 
-st.title("Hello, GenAI!")
+st.title("Hello, GenAI!!")
 st.write("This is your GenAI-powered data processing app.")
 
 # Layout two buttons side by side
